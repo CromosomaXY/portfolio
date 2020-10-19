@@ -8,4 +8,5 @@
     <color name="nav_selected_color">#ffc107</color>
     <color name="card_bg_color">#fbfbfb</color>
     <color name="cv_line_color">#E0E0E0</color>
+    <color name="icon_tint_light">#afafaf</color>
 </resources>
